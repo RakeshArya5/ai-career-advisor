@@ -5,7 +5,7 @@ import time
 import matplotlib.pyplot as plt
 
 # Set FastAPI backend URL
-API_URL = "https://ai-career-advisor-1.onrender.com"
+API_URL = "https://ai-career-advisor.onrender.com"
 
 st.set_page_config(page_title="AI Career Advisor", layout="wide")
 
